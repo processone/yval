@@ -16,7 +16,7 @@
 %%%-------------------------------------------------------------------
 {application, yval,
  [{description,  "YAML validator"},
-  {vsn,          "1.0.5"},
+  {vsn,          "1.0.7"},
   {modules,      []},
   {registered,   []},
   {applications, [kernel, stdlib, inets]},
